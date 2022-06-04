@@ -4,17 +4,9 @@
 
 body {
     background-size: cover;
-    color: whitesmoke;
+    color: purple;
 }
 
-.bg-profile{
-    height: 600px;
-    margin-top: 70px;
-    margin-left: 30px;
-    margin-right: 30px;
-    background:rgba(92, 87, 82, 0.5);
-    
-}
 
 img{
     border-radius: 10%;
